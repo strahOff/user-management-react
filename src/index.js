@@ -9,3 +9,8 @@ const app = ReactDOMClient.createRoot(document.getElementById("app"));
 
 app.render(<App />)
 
+//Базовые концепции
+//Создание компонентов
+//Получение данных от пользователя
+//Работать с html объектами
+//Связывать работу с api сторонних систем
